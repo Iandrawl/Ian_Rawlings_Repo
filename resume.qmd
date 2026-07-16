@@ -1,89 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ian's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Ian 
+Accounting Student, Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:you@byui.edu">you@byui.edu</a> | <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing a BS in Accounting at Brigham Young University - Idaho, graduating December 2026.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Tax return preparation, financial accounting, income taxation, data analytics, spreadsheet modeling
 
+### Skills
 
-### Research interests
+Communication skills, Organizational skills, Attention to detail
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Technical Skills: CCH Axcess, Excel, Power BI, SQL, Python
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`December 2026`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- BS, Accounting
+- GPA: 3.96
+- Relevant coursework: financial accounting, managerial accounting, cost accounting, income taxation, business statistics, spreadsheet application
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`January 2026 - April 2026`
+__Tax Intern__, Eide Bailly LLP, Boise, ID
 
-- Fellow
+- Prepared and reviewed nearly 100 partnership and individual tax returns using CCH Axcess, ensuring accuracy and compliance with federal and state filing requirements
+- Collaborated with a team of tax associates across multiple client engagements, coordinating workpapers and supporting documentation in CCH Axcess to meet filing deadlines
+- Adapted to a high-volume, deadline-driven environment during peak season, prioritizing client deliverables to ensure on-time filing
 
+`May 2025 - August 2025`
+__Sales Representative__, Fox Pest Control, Manchester, NH
 
+- Generated over $55,000 in service revenue by accurately managing more than 60 customer records and service agreements
+- Delivered consistent customer satisfaction by quickly adapting to new locations and demographics and maintaining high-quality interactions in a fast-paced, high-volume environment
 
-## Awards
+`January 2025 - April 2025`
+__Sales Support Representative__, Safestreets Security, Rexburg, ID
 
-`2012`
-President, *Royal Society*, London, UK
+- Performed timely credit checks on potential customers to ensure risk compliance
+- Acted as primary support contact for sales representatives, resolving issues related to scheduling, installation, and equipment orders
 
-Associate, *French Academy of Science*, Paris, France
+`June 2022 - June 2024`
+__Volunteer Representative__, LDS Church, Eastern Visayas, Philippines
 
+- Acquired fluency in Cebuano and Waray Waray
+- Developed professional interpersonal skills by working with people from diverse backgrounds
+- Enlarged leadership abilities by training and leading 20 other representatives
 
+`June 2020 - May 2022`
+__Shift Lead__, Chick-fil-A, Ammon, ID
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Demonstrated exceptional communication skills while interacting with customers and working with coworkers in a team environment
+- Directed and coached 20-30 team members throughout a shift to maintain high operational standards and service speed
+- Increased overall efficiency and sales by identifying and resolving bottlenecks during peak hours
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2026 -->
