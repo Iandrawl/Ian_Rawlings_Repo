@@ -3,13 +3,6 @@ layout: cv
 title: Ian's CV
 ---
 
-# Ian 
-Accounting Student, Brigham Young University - Idaho
-
-<div id="webaddress">
-<a href="mailto:you@byui.edu">you@byui.edu</a> | <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
-</div>
-
 ## Currently
 
 Pursuing a BS in Accounting at Brigham Young University - Idaho, graduating December 2026.
